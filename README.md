@@ -22,10 +22,12 @@ sqld/
 ├── 1주차/
 │   ├── week1.md       # 강의자료 (마크다운)
 │   ├── sqld-week1.pdf # 발표 슬라이드 (PDF)
+│   ├── week1_answer.md # 1주차 정답 (마크다운)
 │   └── sqld-week1.key # 발표 슬라이드 (Keynote)
 ├── 2주차/
 │   ├── week2.md
 │   ├── sqld-week2.pdf
+│   ├── week2_answer.md # 1주차 정답 (마크다운)
 │   └── sqld-week2.key
 └── ...                # 8주차까지 순차 업로드 예정
 ```
