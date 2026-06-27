@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 썸네일
+._*
