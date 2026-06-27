@@ -27,7 +27,7 @@ sqld/
 ├── 2주차/
 │   ├── week2.md
 │   ├── sqld-week2.pdf
-│   ├── week2_answer.md # 1주차 정답 (마크다운)
+│   ├── week2_answer.md # 2주차 정답 (마크다운)
 │   └── sqld-week2.key
 └── ...                # 8주차까지 순차 업로드 예정
 ```
