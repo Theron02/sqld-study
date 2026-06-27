@@ -1,5 +1,5 @@
 ```sql
--- 01. students 와scores 테이블을조인해서학생이름, 과목, 점수를모두조회하시오.
+-- 01. students 와scores 테이블을조인해서학생이름, 과목, 점수를 모두 조회하시오.
 
 SELECT s.name, sc.subject, sc.score
 FROM students s
